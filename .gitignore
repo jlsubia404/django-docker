@@ -105,3 +105,4 @@ venv.bak/
 
 # history vs code folder
 .history
+postgres-data/*
