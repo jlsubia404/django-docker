@@ -1,5 +1,5 @@
 # django-docker
-Configuration of docker compose for Django + PostgreSql develop
+Configuration of docker-compose for Django + PostgreSQL development.
 
 # Prerequisites
 You need to have previously installed:
@@ -18,8 +18,11 @@ Follow the next steps
 # Documentation
 For more information, you can visit https://docs.docker.com/compose/django/
 
+# External resources
+- Wait for it shell https://github.com/vishnubob/wait-for-it/blob/master/wait-for-it.sh
+
 # Autor
 Jorge Subía - [@jlsubia](https://twitter.com/jlsubia "@jlsubia")
 
-#Licence
+# Licence
 GNU GENERAL PUBLIC LICENSE
